@@ -1,0 +1,20 @@
+{
+  "name": "na37-simple-atm-machine",
+  "version": "1.0.0",
+  "description": "an ATM macine using TypeScript, Node.js and inquirer, to track your account.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nimra-rasheed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
